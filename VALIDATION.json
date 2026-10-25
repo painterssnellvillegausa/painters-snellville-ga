@@ -1,0 +1,62 @@
+{
+  "index.html": {
+    "h1": 1,
+    "schema": 1,
+    "links": 30,
+    "sections": 21,
+    "broken_internal": []
+  },
+  "about-us.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 26,
+    "sections": 13,
+    "broken_internal": []
+  },
+  "residential-painting-dunwoody.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 26,
+    "sections": 23,
+    "broken_internal": []
+  },
+  "commercial-painting-dunwoody.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 26,
+    "sections": 25,
+    "broken_internal": []
+  },
+  "flooring-installation-dunwoody.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 26,
+    "sections": 25,
+    "broken_internal": []
+  },
+  "gwinnett-county.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 26,
+    "sections": 17,
+    "broken_internal": []
+  },
+  "contact-us.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 34,
+    "sections": 2,
+    "broken_internal": []
+  },
+  "services.html": {
+    "h1": 1,
+    "schema": 0,
+    "links": 26,
+    "sections": 2,
+    "broken_internal": []
+  },
+  "house-painters-snellville.html": {
+    "alias_of": "residential-painting-dunwoody.html",
+    "canonical": "https://s3.us-east-1.wasabisys.com/painters-snellville-ga/residential-painting-dunwoody.html"
+  }
+}
